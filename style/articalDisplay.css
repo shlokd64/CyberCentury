@@ -1,0 +1,32 @@
+.articalC ul {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.articalC ul li img {
+    width: 200px;
+    height: 150px;
+}
+
+.articalC ul li {
+    list-style-type: none;
+}
+
+.articalC ul li:nth-child(2) {
+    position: absolute;
+    left: 235px;
+    top: 120px;
+}
+
+.articalC ul li:nth-child(3) {
+    position: absolute;
+    right: 22px;
+    top: 141px;
+}
+
+.articalC ul li:nth-child(4) {
+    position: absolute;
+    left: 235px;
+    top: 168px;
+}

@@ -1,0 +1,21 @@
+.searchC {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+h1 a {
+    color: black;
+    text-decoration: none;
+}
+
+.searchC img {
+    position: absolute;
+    width: 20px;
+    right: 0px;
+    top: 1px;
+}
+
+.mainTitleC h2 {
+    text-align: center;
+}
