@@ -1,0 +1,19 @@
+.numOneC ul {
+    position: relative;
+    transform: translate(460px, 20px);
+    width: 250px;
+    height: 100px;
+    list-style-type: none;
+    border: 1px solid black;
+    line-height: 33px;
+}
+
+.numTwoC ul {
+    position: relative;
+    transform: translate(760px, -215px);
+    width: 250px;
+    height: 100px;
+    list-style-type: none;
+    border: 1px solid black;
+    line-height: 33px;
+}
