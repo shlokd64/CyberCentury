@@ -1,10 +1,14 @@
 .articalC ul {
+    position: relative;
+    left: 10px;
     display: flex;
+    width: 1490px;
     border: 1px solid black;
     padding: 10px;
 }
 
 .articalC ul li img {
+    position: relative;
     width: 200px;
     height: 150px;
 }
@@ -16,17 +20,17 @@
 .articalC ul li:nth-child(2) {
     position: absolute;
     left: 235px;
-    top: 120px;
+    top: -5px;
 }
 
 .articalC ul li:nth-child(3) {
     position: absolute;
     right: 22px;
-    top: 141px;
+    top: 16px;
 }
 
 .articalC ul li:nth-child(4) {
     position: absolute;
     left: 235px;
-    top: 168px;
+    top: 43px;
 }

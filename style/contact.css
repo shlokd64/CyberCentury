@@ -8,6 +8,14 @@
     line-height: 33px;
 }
 
+.numOneC ul li a:hover {
+    text-decoration: underline;
+}
+
+.numTwoC ul li a:hover {
+    text-decoration: underline;
+}
+
 .numTwoC ul {
     position: relative;
     transform: translate(770px, -215px);
