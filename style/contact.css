@@ -1,6 +1,6 @@
 .numOneC ul {
     position: relative;
-    transform: translate(460px, 20px);
+    transform: translate(470px, 20px);
     width: 250px;
     height: 100px;
     list-style-type: none;
@@ -10,7 +10,7 @@
 
 .numTwoC ul {
     position: relative;
-    transform: translate(760px, -215px);
+    transform: translate(770px, -215px);
     width: 250px;
     height: 100px;
     list-style-type: none;
