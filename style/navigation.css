@@ -87,7 +87,7 @@ h1 a {
     right: -15px;
     top: -42px;
     width: 300px;
-    height: 2729px;
+    height: 3029px;
     background-color: rgb(0, 0, 0);
     list-style-type: none;
     z-index: 1;
@@ -122,8 +122,7 @@ h1 a {
 
 .navC .dropC ul li:nth-child(8) {
     position: relative;
-    top: 342px;
-    left: 72px;
-    
-    font-size: 13px;
+    top: -357px;
+    left: -110px;
+    font-size: 12px;
 }
